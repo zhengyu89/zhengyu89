@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **in bachelor of computer science (software engineering) in University Technology Malaysia.**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **Python,C++,Java,ML/DL**
 
-- 📫 How to reach me **tanzhengyu@guaduate.utm.my**
+- 📫 How to reach me **tanzhengyutan@gmail.com**
 
 - ⚡ Fun fact **I like music**
 
