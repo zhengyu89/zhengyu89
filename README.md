@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **in bachelor of computer science (software engineering) in University Technology Malaysia.**
 
-- 💬 Ask me about **Python,C++,Java,ML/DL**
+- 💬 Ask me about **Any AI solution**
 
 - 📫 How to reach me **tanzhengyutan@gmail.com**
 
