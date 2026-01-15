@@ -1,22 +1,60 @@
 [![MasterHead](https://storage.googleapis.com/replit/images/1686628398900_9650e8f289c3333cdff29f8d00a77e06.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Tan Zheng Yu</h1>
-<h3 align="center">An undergraduate student in Malaysia.</h3>
+<h1 align="center">Hi 👋, I'm Ivan Zheng Yu Tan</h1>
+<h3 align="center">
+AI Research Assistant · AI Engineer <br/>
+Agentic Systems · Multimodal LLMs · Production AI
+</h3>
 
-
-- 🌱 I’m currently learning **in bachelor of computer science (software engineering) in University Technology Malaysia.**
-
-- 💬 Ask me about **Any AI solution**
-
-- 📫 How to reach me **tanzhengyutan@gmail.com**
-
-- ⚡ Fun fact **I like music**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@zhengyu1356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zhengyu1356" height="30" width="40" /></a>
+<p align="center">
+He / Him · Universiti Teknologi Malaysia 🇲🇾
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhengyu89&" alt="zhengyu89" /></p>
+### 🧠 About Me
+
+I’m an **undergraduate AI Research Assistant and AI Engineer** at **Universiti Teknologi Malaysia**, working at the intersection of **AI research and real-world deployment**.
+
+I focus on building **robust, trustworthy, production-ready AI systems**, especially:
+- Agentic & multi-agent architectures  
+- RAG and knowledge-driven systems  
+- Multimodal LLMs (text, audio, vision)  
+
+I enjoy **end-to-end problem solving**, from experimentation to deployment, and I’m actively preparing for a **PhD in AI**.
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+
+<!-- Languages -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+</a>
+
+<!-- AI / LLM -->
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/>
+</a>
+
+<!-- Frameworks -->
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+</a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+</a>
+
+<!-- DevOps -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</a>
+
+</p>
