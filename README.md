@@ -1,8 +1,7 @@
 [![MasterHead](https://storage.googleapis.com/replit/images/1686628398900_9650e8f289c3333cdff29f8d00a77e06.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ivan Zheng Yu Tan</h1>
 <h3 align="center">
-AI Research Assistant · AI Engineer <br/>
-Agentic Systems · Multimodal LLMs · Production AI
+AI/ML Engineer <br/>
 </h3>
 
 <p align="center">
