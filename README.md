@@ -19,7 +19,7 @@ I focus on building **robust, trustworthy, production-ready AI systems**, especi
 - RAG and knowledge-driven systems  
 - Multimodal LLMs (text, audio, vision)  
 
-I enjoy **end-to-end problem solving**, from experimentation to deployment, and I’m actively preparing for a **PhD in AI**.
+I enjoy **end-to-end problem solving**, from experimentation to deployment.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
